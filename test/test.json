@@ -1,5 +1,3 @@
-{
-"graves" :
 [
 	{
         "first_name": "Miyah",
@@ -46,9 +44,4 @@
 		"x_coord" : 50,
 		"y_coord" : 250
     }
-],
-"bins" :
-[],
-"water_sources" :
-[]
-}
+]
