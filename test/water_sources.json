@@ -1,5 +1,5 @@
 [{
     "size": 5,
-    "x_coord": 300,
-    "y_coord": 100
+    "x_coord": 300.0,
+    "y_coord": 100.0
 }]
