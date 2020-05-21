@@ -1,9 +1,17 @@
 [{
         "id": 1,
-        "name": "Bystrička"
+        "name": "Bystrička",
+        "max_x": 0.0,
+        "min_x": 0.0,
+        "max_y": 0.0,
+        "min_y": 0.0
     },
     {
         "id": 2,
-        "name": "Test"
+        "name": "Test",
+        "max_x": 48.190959,
+        "min_x": 48.1909258,
+        "max_y": 17.0400014,
+        "min_y": 17.039477
     }
 ]
