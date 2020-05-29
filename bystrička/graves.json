@@ -1,0 +1,41 @@
+[{
+        "id": 1,
+        "first_name": "Miyah",
+        "surname": "Cairns",
+        "date_of_birth": "1.1.1950",
+        "date_of_death": "5.5.2020",
+        "more_info": "Pearce",
+        "x_coord": 48.1909258,
+        "y_coord": 17.0400014
+    },
+    {
+        "id": 2,
+        "first_name": "Cohan",
+        "surname": "Snow",
+        "date_of_birth": "12.6.1944",
+        "date_of_death": "11.8.2015",
+        "more_info": "",
+        "x_coord": 48.1909258,
+        "y_coord": 17.039703
+    },
+    {
+        "id": 3,
+        "first_name": "Shane",
+        "surname": "Pearce",
+        "date_of_birth": "5.9.1984",
+        "date_of_death": "1.8.2018",
+        "more_info": "",
+        "x_coord": 48.1909258,
+        "y_coord": 17.039474
+    },
+    {
+        "id": 4,
+        "first_name": "Finlay",
+        "surname": "Trujillo",
+        "date_of_birth": "4.6.1865",
+        "date_of_death": "22.7.1949",
+        "more_info": "",
+        "x_coord": 48.1910466,
+        "y_coord": 17.0398285
+    }
+]
